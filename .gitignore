@@ -1,3 +1,3 @@
 .ipynb_checkpoints
-act_report.html
-wrangle_report.pdf
+*.html
+*.pdf
